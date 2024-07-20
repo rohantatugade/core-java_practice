@@ -1,4 +1,4 @@
 # core-java_practice
 Java practice exercises
 <br>
-Author - Rohan
+Author - Rohan Tatugade
